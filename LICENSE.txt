@@ -1,0 +1,33 @@
+PROPRIETARY PORTFOLIO DEMONSTRATION
+
+Copyright (c) 2026 Lakshmikantha.
+All rights reserved, solely to the extent they exist and are owned by the rights holder.
+
+This project is provided for viewing and evaluation as a portfolio demonstration.
+It is not offered under an open-source license. You may view the deployed website
+and make the incidental technical copies required for that viewing and evaluation.
+
+Except for that permission, applicable law, a separately applicable license, or
+permissions granted under the hosting platform's terms, no permission is granted
+to copy, modify, adapt, redistribute, sublicense, sell, or incorporate the covered
+material into another website, project, product, or service without prior written
+permission from the rights holder.
+
+Covered material means only the rights holder's original human-authored code,
+copy, artwork, and protectable selection or arrangement, to the extent copyright
+subsists in those contributions and the rights holder owns it. This notice does
+not represent that every element of the project was human-authored.
+
+No ownership is claimed in ideas, methods, general styles, generic interface
+patterns, facts, third-party works, or AI-generated material to the extent it is
+not protected by copyright. Era Residence and The First The Last works, names,
+and marks are excluded. No rights in their material are granted by this notice.
+
+Third-party fonts and components retain their own licenses and notices. This
+notice does not restrict any permissions granted under those licenses.
+
+If this project is made public on GitHub, applicable GitHub Terms of Service
+permissions, including viewing and forking through the service, remain in effect.
+This notice neither overrides those terms nor creates rights not recognized by law.
+
+Permission requests: https://lakshmikantha.in/

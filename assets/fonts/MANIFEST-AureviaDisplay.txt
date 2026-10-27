@@ -1,0 +1,15 @@
+Aurevia Display webfont packaging
+
+Source: Latin Modern Roman, by Boguslaw Jackowski and Janusz M. Nowacki.
+Source files retained in source/ for provenance.
+
+lmroman17-regular.otf -> AureviaDisplay-Regular.woff
+lmroman12-italic.otf -> AureviaDisplay-Italic.woff
+
+The font outlines, metrics and internal family names are unchanged.
+Only WOFF format conversion was performed with FontTools.
+Solenne is the CSS alias used by this website for these Latin Modern fonts.
+AureviaDisplay is the packaging filename prefix, not a new typeface design.
+Clarity is the CSS alias for the separately licensed Liberation Sans fonts.
+See Latin-Modern-NOTICE.txt, GUST-FONT-LICENSE.txt and LPPL-1.3c.tex.
+Original project: https://www.gust.org.pl/projects/e-foundry/latin-modern

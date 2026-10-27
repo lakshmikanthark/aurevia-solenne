@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Fictional portfolio pages carry noindex meta directives.
